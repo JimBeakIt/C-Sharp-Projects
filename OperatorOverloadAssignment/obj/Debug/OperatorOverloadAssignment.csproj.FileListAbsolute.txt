@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\OperatorOverloadAssignment\bin\Debug\OperatorOverloadAssignment.exe.config
+C:\Users\jimbe\source\repos\OperatorOverloadAssignment\bin\Debug\OperatorOverloadAssignment.exe
+C:\Users\jimbe\source\repos\OperatorOverloadAssignment\bin\Debug\OperatorOverloadAssignment.pdb
+C:\Users\jimbe\source\repos\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.exe
+C:\Users\jimbe\source\repos\OperatorOverloadAssignment\obj\Debug\OperatorOverloadAssignment.pdb
