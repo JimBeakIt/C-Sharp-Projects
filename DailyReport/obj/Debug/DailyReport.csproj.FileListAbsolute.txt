@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\jimbe\source\repos\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\jimbe\source\repos\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\jimbe\source\repos\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\jimbe\source\repos\DailyReport\obj\Debug\DailyReport.pdb
+C:\Users\jimbe\source\repos\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
