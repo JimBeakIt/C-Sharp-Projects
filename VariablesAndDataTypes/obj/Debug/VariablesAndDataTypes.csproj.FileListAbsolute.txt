@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\jimbe\source\repos\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\jimbe\source\repos\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\jimbe\source\repos\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\jimbe\source\repos\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
