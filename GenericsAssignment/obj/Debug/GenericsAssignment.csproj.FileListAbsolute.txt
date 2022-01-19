@@ -1,0 +1,8 @@
+C:\Users\jimbe\source\repos\GenericsAssignment\bin\Debug\GenericsAssignment.exe.config
+C:\Users\jimbe\source\repos\GenericsAssignment\bin\Debug\GenericsAssignment.exe
+C:\Users\jimbe\source\repos\GenericsAssignment\bin\Debug\GenericsAssignment.pdb
+C:\Users\jimbe\source\repos\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\GenericsAssignment\obj\Debug\GenericsAssignment.exe
+C:\Users\jimbe\source\repos\GenericsAssignment\obj\Debug\GenericsAssignment.pdb
+C:\Users\jimbe\source\repos\GenericsAssignment\obj\Debug\GenericsAssignment.csproj.SuggestedBindingRedirects.cache

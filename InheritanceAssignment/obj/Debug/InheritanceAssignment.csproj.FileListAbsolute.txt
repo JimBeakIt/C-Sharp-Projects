@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe.config
+C:\Users\jimbe\source\repos\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe
+C:\Users\jimbe\source\repos\InheritanceAssignment\bin\Debug\InheritanceAssignment.pdb
+C:\Users\jimbe\source\repos\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\InheritanceAssignment\obj\Debug\InheritanceAssignment.exe
+C:\Users\jimbe\source\repos\InheritanceAssignment\obj\Debug\InheritanceAssignment.pdb
