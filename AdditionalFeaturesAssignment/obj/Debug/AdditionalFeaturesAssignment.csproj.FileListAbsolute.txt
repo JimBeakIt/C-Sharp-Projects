@@ -1,0 +1,8 @@
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe.config
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.pdb
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.pdb
+C:\Users\jimbe\source\repos\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.SuggestedBindingRedirects.cache
