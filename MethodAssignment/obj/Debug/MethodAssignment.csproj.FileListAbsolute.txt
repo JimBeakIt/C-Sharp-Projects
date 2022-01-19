@@ -1,0 +1,8 @@
+C:\Users\jimbe\source\repos\MethodAssignment\bin\Debug\MethodAssignment.exe.config
+C:\Users\jimbe\source\repos\MethodAssignment\bin\Debug\MethodAssignment.exe
+C:\Users\jimbe\source\repos\MethodAssignment\bin\Debug\MethodAssignment.pdb
+C:\Users\jimbe\source\repos\MethodAssignment\obj\Debug\MethodAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\MethodAssignment\obj\Debug\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\MethodAssignment\obj\Debug\MethodAssignment.exe
+C:\Users\jimbe\source\repos\MethodAssignment\obj\Debug\MethodAssignment.pdb
+C:\Users\jimbe\source\repos\MethodAssignment\obj\Debug\MethodAssignment.csproj.SuggestedBindingRedirects.cache
