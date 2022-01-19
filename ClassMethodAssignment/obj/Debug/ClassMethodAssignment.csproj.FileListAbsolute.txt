@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\ClassMethodAssignment\bin\Debug\ClassMethodAssignment.exe.config
+C:\Users\jimbe\source\repos\ClassMethodAssignment\bin\Debug\ClassMethodAssignment.exe
+C:\Users\jimbe\source\repos\ClassMethodAssignment\bin\Debug\ClassMethodAssignment.pdb
+C:\Users\jimbe\source\repos\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.exe
+C:\Users\jimbe\source\repos\ClassMethodAssignment\obj\Debug\ClassMethodAssignment.pdb

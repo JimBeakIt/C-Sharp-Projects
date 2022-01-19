@@ -1,0 +1,6 @@
+C:\Users\jimbe\source\repos\Casino\bin\Debug\Casino.dll
+C:\Users\jimbe\source\repos\Casino\bin\Debug\Casino.pdb
+C:\Users\jimbe\source\repos\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\Casino\obj\Debug\Casino.dll
+C:\Users\jimbe\source\repos\Casino\obj\Debug\Casino.pdb
+C:\Users\jimbe\source\repos\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
