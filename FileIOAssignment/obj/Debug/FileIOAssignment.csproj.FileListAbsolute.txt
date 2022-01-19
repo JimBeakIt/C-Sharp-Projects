@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
+C:\Users\jimbe\source\repos\FileIOAssignment\bin\Debug\FileIOAssignment.exe
+C:\Users\jimbe\source\repos\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
+C:\Users\jimbe\source\repos\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\FileIOAssignment\obj\Debug\FileIOAssignment.exe
+C:\Users\jimbe\source\repos\FileIOAssignment\obj\Debug\FileIOAssignment.pdb

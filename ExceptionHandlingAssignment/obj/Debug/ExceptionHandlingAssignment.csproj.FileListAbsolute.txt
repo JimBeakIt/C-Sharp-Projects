@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe.config
+C:\Users\jimbe\source\repos\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.exe
+C:\Users\jimbe\source\repos\ExceptionHandlingAssignment\bin\Debug\ExceptionHandlingAssignment.pdb
+C:\Users\jimbe\source\repos\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.exe
+C:\Users\jimbe\source\repos\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.pdb
+C:\Users\jimbe\source\repos\ExceptionHandlingAssignment\obj\Debug\ExceptionHandlingAssignment.csproj.AssemblyReference.cache
