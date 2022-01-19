@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\StructsAssignment\bin\Debug\StructsAssignment.exe.config
+C:\Users\jimbe\source\repos\StructsAssignment\bin\Debug\StructsAssignment.exe
+C:\Users\jimbe\source\repos\StructsAssignment\bin\Debug\StructsAssignment.pdb
+C:\Users\jimbe\source\repos\StructsAssignment\obj\Debug\StructsAssignment.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\StructsAssignment\obj\Debug\StructsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\StructsAssignment\obj\Debug\StructsAssignment.exe
+C:\Users\jimbe\source\repos\StructsAssignment\obj\Debug\StructsAssignment.pdb
