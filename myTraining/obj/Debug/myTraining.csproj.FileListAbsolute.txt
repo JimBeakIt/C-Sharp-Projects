@@ -1,0 +1,7 @@
+C:\Users\jimbe\source\repos\myTraining\bin\Debug\myTraining.exe.config
+C:\Users\jimbe\source\repos\myTraining\bin\Debug\myTraining.exe
+C:\Users\jimbe\source\repos\myTraining\bin\Debug\myTraining.pdb
+C:\Users\jimbe\source\repos\myTraining\obj\Debug\myTraining.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\myTraining\obj\Debug\myTraining.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\myTraining\obj\Debug\myTraining.exe
+C:\Users\jimbe\source\repos\myTraining\obj\Debug\myTraining.pdb
